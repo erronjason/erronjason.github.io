@@ -1,4 +1,0 @@
-Hi, I'm Jason sayre.
-I'm a twenty five year old working in the field of information technology.
-This is my personal repository for experiments and projects,
-but you're welcome to mess around here if you'd like.
