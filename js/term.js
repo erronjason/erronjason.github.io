@@ -474,9 +474,9 @@
       term.enqueue('login')
           .enqueue('jason')
           .enqueue('********')
-		  .enqueue('cat about.txt')
+		    .enqueue('cat about.txt')
           .enqueue('help')
-          .enqueue('tree')
+          .enqueue('ls')
           .begin();
    });
 
