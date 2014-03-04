@@ -1,4 +1,4 @@
 Hi, I'm Jason Sayre.
-I'm a twenty five year old working in the field of information technology.
+I'm a twenty five year old working the world of computery things.
 This is my personal repository for experiments and projects,
 but you're welcome to mess around here if you'd like.
