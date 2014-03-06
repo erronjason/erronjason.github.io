@@ -6,7 +6,6 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-12067279-1', 'erronjason.com');
 ga('send', 'pageview');
 
-
 //Piwik
 var _paq = _paq || [];
 _paq.push(['trackPageView']);
