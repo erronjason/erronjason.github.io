@@ -20,18 +20,8 @@
       }, 
       {
          "type": "exec", 
-         "name": "home", 
-         "contents": "https://erronjason.com/home"
-      }, 
-      {
-         "type": "exec", 
          "name": "mail", 
          "contents": "mailto:jason@jasonsayre.com"
-      }, 
-      {
-         "type": "exec", 
-         "name": "files", 
-         "contents": "https://erronjason.com/files/"
       }, 
       {
          "type": "text", 
@@ -41,7 +31,7 @@
       {
          "type": "text", 
          "name": "about.txt", 
-         "contents": "Hi, I'm Jason Sayre.\nI'm a twenty five year old working the world of computery things.\nThis is my personal repository for experiments and projects,\nbut you're welcome to mess around here if you'd like.\n"
+         "contents": "Hi, I'm Jason Sayre.\nI'm a twenty six year old working and living in Tampa, FL.\nThis is my personal repository for experiments and projects,\nbut you're welcome to mess around here if you'd like.\n"
       }
    ]
 }
