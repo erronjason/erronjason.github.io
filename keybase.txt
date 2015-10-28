@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/erronjason
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://erronjason.com
+  * I am erronjason (https://keybase.io/erronjason) on keybase.
+  * I have a public key with fingerprint 8D06 2876 3CF2 410F E5A3  06AE AE8C 32C8 EFB7 A631
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011e67eabe553905a422f6fa2bbc161a117c4d6ecb32a4e9a4267bd6cf363e5aeb0a",
+            "fingerprint": "8d0628763cf2410fe5a306aeae8c32c8efb7a631",
+            "host": "keybase.io",
+            "key_id": "ae8c32c8efb7a631",
+            "kid": "01011e67eabe553905a422f6fa2bbc161a117c4d6ecb32a4e9a4267bd6cf363e5aeb0a",
+            "uid": "4c7bfd9456f8110b5fba754a1f017d00",
+            "username": "erronjason"
+        },
+        "revoke": {
+            "sig_ids": [
+                "00ed0652c53a3bbd80ae5ee4d907b191caa378dca5468513b9351dd707b1d4dd0f"
+            ]
+        },
+        "service": {
+            "hostname": "erronjason.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1446073173,
+    "expire_in": 157680000,
+    "prev": "170b87e5aae79468611e3c50be4831bc984dd36b6aca87455ab10f1055aac80d",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMJmAnicrVJbaFRHGN54CRqjjZf6IlV7wOJDiDNnzsycXUkrIaCtNli8ELxkmct/
+dk9Wz9mePbtJkJjS9sFrQwsFrVVaiC0qind8EElURFoooVKo4IsGFFs1qSJGxNQ5
+oT61j52Xufzf//3f/81/dfrEVE3VcndV+cCZ/FjVzwPPyqn1eM26bZYMdZeV2WYV
+YHyDLRpKcbbgaytjIYwwBsZBSKCUpBEVjm17zBO2lAozLDDmytEMlCS2cCBt4oxL
+zZRHGAEqQCJh1VueH+QgKkZ+EBtaVyNmu5wR5dkORp7BEcQECHAVsZULnuSCEWwS
+82EpyTDipChBgx+aN3PJjsv7D/z/rLs8TucoLj2ddijzXIyRpJ4UnDoCewhzjVAC
+LEEUiK1g0BBFYdAuSmFgdddbEVTCAiTOlvyckV2yMhsthMBYQG1FiSBSahcJoACO
+TiMucRorIQh3tRLUYS7FRKYJxVrzJKodrZFnbTbcpmbFV+PkiU//qt+gwq1GWzEK
+41CFW0wsH8fFTCIr7iom2A6Q2X9YstIPtPkmk1CBqOQb+RlskCr2E1rsOAxxgjmp
+t6Cz6EeQ9RME5cxFZiVloGIoMUfS5cZCATxt5DPzE0RRJMFxCZYq7ZoGCJNMKOFy
+h1IhzQhgZA5CuUhbSV8fB6HhNqVikTOcxrpAxOUIrO7L/ZsmpapqUtWTJyTzm6qZ
+Wvd6qr++MCX11Unni+U31l540tQ3MH/j708uv1V3fvO072qjwtLQabxWyLbN+KG5
+bXht3+E39MVvbkpY7Ff+xCOre3bMW/ht7/0ZNw++PWFP56HeT3/yT+e/pLeO7L5Y
+Pa3xszfZyg2HulY8fv/Wqim56pmPqxq8lv2rf/2x/Wzur4Ozy6cGvdSHjwYPHx0a
+fDqKss0v7g30PuyPWucOjfa8M/xL7ah/9EDl756mz58OjY2OjZx798X2Oy07P9q/
+ZORu9LCudn3fZGvOqd8+WWbHHzSvfIlnHd93u6b52IlLbfnp3pVwX0fHy/LJzuHB
+B8uaWnf1T0rB3u/d9xY+n9uy4Uo7W3S8dVFHbriR/hFcX9D9CvmnXtk=
+=e+Tw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/erronjason
+
+==================================================================
