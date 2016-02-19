@@ -476,7 +476,7 @@
    }
 
    var term = Object.create(Terminal);
-   term.init(CONFIG, 'json/fs.json', COMMANDS, function() {
+   term.init(CONFIG, 'assets/json/fs.json', COMMANDS, function() {
       term.enqueue('login')
           .enqueue('jason')
           .enqueue('********')
